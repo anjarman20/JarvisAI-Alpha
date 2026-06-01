@@ -230,7 +230,3 @@ ketik: lihat app yang sudah diindex
 MIT License — bebas digunakan, dimodifikasi, dan didistribusikan.
 
 ---
-
-<div align="center">
-  <b>Dibuat dengan ❤️ oleh Anjar · Arqonara · Indonesia</b>
-</div>
