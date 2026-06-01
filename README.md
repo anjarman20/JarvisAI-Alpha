@@ -35,17 +35,17 @@ pip install -r requirements.txt
 **requirements.txt:**
 
 ```
-openai>=1.30.0
-pyaudio
-pyautogui
-psutil
-colorama
-pyperclip
-python-dotenv
-rapidfuzz
-pygame
-requests
+openai>=1.0.0
+pyaudio>=0.2.13
+pyautogui>=0.9.54
+psutil>=5.9.0
+colorama>=0.4.6
+pyperclip>=1.8.2
+requests>=2.31.0
+edge-tts>=7.2.8
+yt-dlp
 pywin32
+rapidfuzz
 ```
 
 > **Catatan pyaudio di Windows:**
